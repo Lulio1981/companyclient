@@ -10,7 +10,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @AllArgsConstructor
 @NoArgsConstructor
 @Document
-public class ClientType {
+public class CompanyClientType {
 
     private String id;
     private String name;
